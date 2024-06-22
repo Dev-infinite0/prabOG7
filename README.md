@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @prabodhq89@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can play drums but her i am here to write code lol
+- ⚡ Fun fact: I can also play drums but here I am writing code
 
 <!---
 prabOG7/prabOG7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
